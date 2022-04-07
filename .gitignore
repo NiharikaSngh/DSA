@@ -1,6 +1,6 @@
 #Object files from Cpp code Compilation
-G/Dynamic_Programming
-GM/Dynamic_Programming
+Dynamic_Programming/G
+Dynamic_Programming/GM
 
 # Prerequisites
 *.d
