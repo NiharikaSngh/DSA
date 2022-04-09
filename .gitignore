@@ -1,6 +1,13 @@
-#Object files from Cpp code Compilation
+# Object files from Cpp code Compilation
 Dynamic_Programming/G
 Dynamic_Programming/GM
+Dynamic_Programming/GM2
+Dynamic_Programming/F
+
+# Vim editor temporary files
+*.swp
+*.swo
+*.swn
 
 # Prerequisites
 *.d
