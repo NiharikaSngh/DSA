@@ -1,3 +1,8 @@
 1. With and without memoization (using 2D array) both codes, give same performance.
 2. Both codes compute wrong value for n = 18, & m = 18.
-3. Need to do 2nd memoization using hashmaps like in freecodecamp "dynamic programming" video. 
+3. Need to do 2nd memoization using hashmaps like in freecodecamp "dynamic programming" video
+4. Memoization using hashmaps took a lot of time (2 days). I learnt that unordered maps can't have pair<int,int> as key. 
+   There's a separate method to do that on gfg. 
+5. Javascript code using memo in freecodecamp video could compute 18*18 grid accurately becos 2^53 is the int limit here whereas
+   in Cpp its 2^31. Neither ll (long long) could compute correct value for 18X18.
+6. One thing is computation is faster with memoization rather than plain recursive code. 
